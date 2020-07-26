@@ -161,4 +161,4 @@ while(a!=0 and game == 2):
                 print("computer1 has selected",1)
         elif(a%3 == 1 and a%2 == 1 and a == 1):
             print("ai2 has won")
-            break 
+            break       
